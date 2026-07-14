@@ -33,10 +33,8 @@ The goal of this repository is to document my PCB engineering journey and share 
 
 | Project | Description | Altium | KiCad |
 |----------|-------------|:------:|:------:|
-| STM32 Development Board | ARM Cortex-M Development Board | ✅ | ✅ |
+| 300W ELECTRONIC LOAD WITH LM324 | LM324N, IRFP150 | ✅ | ❌ |
 | ESP32 IoT Board | WiFi + Bluetooth Development Board | ✅ | ✅ |
-| Power Supply Module | Buck Converter PCB | ✅ | ✅ |
-| Sensor Interface Board | Embedded Sensor Module | ✅ | ✅ |
 
 ---
 
