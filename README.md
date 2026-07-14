@@ -2,8 +2,8 @@
 
 > A professional collection of PCB design projects created using **Altium Designer** and **KiCad**.
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/PCB-Design-Portfolio?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/PCB-Design-Portfolio?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/rajib-mte/PCB-Design-Portfolio?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/rajib-mte/PCB-Design-Portfolio?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ---
