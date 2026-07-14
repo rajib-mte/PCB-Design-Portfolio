@@ -1,0 +1,145 @@
+# ==========================================================
+# Universal Embedded Hardware Project .gitignore
+# Supports:
+# - Altium Designer
+# - KiCad
+# - Arduino IDE
+# - STM32CubeIDE
+# - STM32CubeMX
+# - Keil MDK-ARM
+# - VS Code
+# ==========================================================
+
+# ==========================================================
+# Operating System
+# ==========================================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================================================
+# Editors
+# ==========================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==========================================================
+# Temporary / Backup Files
+# ==========================================================
+*.bak
+*.tmp
+*.temp
+*.old
+*.orig
+*.log
+*.cache
+*.autosave
+*.lck
+
+# ==========================================================
+# Altium Designer
+# ==========================================================
+History/
+__Previews/
+Project Logs for */
+Project Outputs for */
+Generated/
+Outputs/
+OutJobOutputs/
+CAMOutputs/
+Fabrication/
+Assembly/
+Documentation/
+
+# ==========================================================
+# KiCad
+# ==========================================================
+*-backups/
+_autosave-*
+fp-info-cache
+sym-lib-table.lock
+
+# Generated Manufacturing Files
+*.gbr
+*.gtl
+*.gbl
+*.gts
+*.gbs
+*.gto
+*.gm1
+*.drl
+*.map
+*.pos
+*.rpt
+*.ipc
+
+# ==========================================================
+# STM32CubeIDE
+# ==========================================================
+Debug/
+Release/
+build/
+
+.settings/
+.metadata/
+
+# Generated files
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# ==========================================================
+# STM32CubeMX
+# ==========================================================
+.mxproject.bak
+
+# ==========================================================
+# Keil MDK-ARM
+# ==========================================================
+Objects/
+Listings/
+RTE/_Generated/
+
+*.axf
+*.o
+*.d
+*.crf
+*.dep
+*.htm
+*.lnp
+*.sct.bak
+*.uvgui.*
+*.uvoptx
+*.uvopt
+*.bak
+
+# ==========================================================
+# Arduino
+# ==========================================================
+build/
+*.elf
+*.hex
+
+# ==========================================================
+# General C/C++
+# ==========================================================
+*.o
+*.obj
+*.a
+*.lib
+*.exe
+
+# ==========================================================
+# Documentation Output
+# ==========================================================
+Gerbers/
+Gerber/
+Manufacturing/
+Assembly/
+Production/
+Outputs/
+Fabrication/
